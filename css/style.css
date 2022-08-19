@@ -15,6 +15,11 @@
   --sky: #40b1ef;
 }
 
+body {
+  max-width: 1600px;
+  margin: auto;
+}
+
 li {
   list-style: none;
 }
